@@ -132,5 +132,5 @@ OUTPUT
 ![alt text](web3.png)
 
 
-RESULT
+RESULT:
 The program for creating slot timetable using basic HTML tags is executed successfully.
